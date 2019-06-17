@@ -1,7 +1,7 @@
 # graffiti
 
 ### Introduction
-+ some small programs coded by python.
++ Some small programs coded by python.
 
 
 ### Detail
